@@ -28,6 +28,8 @@ npm install
 # or
 yarn install
 
+and also install all mentioed in the requirements.txt using npm
+
 # 3. Start the development server
 npm run dev
 # or
